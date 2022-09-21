@@ -1,0 +1,2 @@
+maprules/addCollisionRule.tmx
+maprules/removeCollisionRule.tmx

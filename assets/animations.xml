@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+    <!-- player idle -->
+    <sequence id="player-idle-down" frames="4" speed="300" width="64" height="64" loop="true">
+        <frame textureID="player-idle-down-00"/>
+        <frame textureID="player-idle-down-01"/>
+        <frame textureID="player-idle-down-02"/>
+        <frame textureID="player-idle-down-03"/>
+    </sequence>
+    <sequence id="player-idle-left" frames="4" speed="300" width="64" height="64" loop="true">
+        <frame textureID="player-idle-left-00"/>
+        <frame textureID="player-idle-left-01"/>
+        <frame textureID="player-idle-left-02"/>
+        <frame textureID="player-idle-left-03"/>
+    </sequence>
+    <sequence id="player-idle-right" frames="4" speed="300" width="64" height="64" loop="true">
+        <frame textureID="player-idle-right-00"/>
+        <frame textureID="player-idle-right-01"/>
+        <frame textureID="player-idle-right-02"/>
+        <frame textureID="player-idle-right-03"/>
+    </sequence>
+    <sequence id="player-idle-up" frames="4" speed="300" width="64" height="64" loop="true">
+        <frame textureID="player-idle-up-00"/>
+        <frame textureID="player-idle-up-01"/>
+        <frame textureID="player-idle-up-02"/>
+        <frame textureID="player-idle-up-03"/>
+    </sequence>
+
+     <!-- player walk -->
+    <sequence id="player-walk-down" frames="4" speed="200" width="64" height="64" loop="true">
+        <frame textureID="player-walk-down-00"/>
+        <frame textureID="player-walk-down-01"/>
+        <frame textureID="player-walk-down-02"/>
+        <frame textureID="player-walk-down-03"/>
+    </sequence>
+    <sequence id="player-walk-left" frames="4" speed="200" width="64" height="64" loop="true">
+        <frame textureID="player-walk-left-00"/>
+        <frame textureID="player-walk-left-01"/>
+        <frame textureID="player-walk-left-02"/>
+        <frame textureID="player-walk-left-03"/>
+    </sequence>
+    <sequence id="player-walk-right" frames="4" speed="200" width="64" height="64" loop="true">
+        <frame textureID="player-walk-right-00"/>
+        <frame textureID="player-walk-right-01"/>
+        <frame textureID="player-walk-right-02"/>
+        <frame textureID="player-walk-right-03"/>
+    </sequence>
+    <sequence id="player-walk-up" frames="4" speed="200" width="64" height="64" loop="true">
+        <frame textureID="player-walk-up-00"/>
+        <frame textureID="player-walk-up-01"/>
+        <frame textureID="player-walk-up-02"/>
+        <frame textureID="player-walk-up-03"/>
+    </sequence>
+</animations>

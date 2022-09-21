@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textures>
+    <!-- Tilesets | must be the same id as the tileset name in mapfiles-->
+    <texture id="tileset" source="assets/tilesets/tileset.png"/>
+
+    <!-- Collider tmp image-->
+    <texture id="collider" source="assets/collider.png"/>
+
+    <!-- Player idle -->
+    <texture id="player-idle-down-00" source="assets/player/idle/down-00.png"/>
+    <texture id="player-idle-down-01" source="assets/player/idle/down-01.png"/>
+    <texture id="player-idle-down-02" source="assets/player/idle/down-02.png"/>
+    <texture id="player-idle-down-03" source="assets/player/idle/down-03.png"/>
+    <texture id="player-idle-left-00" source="assets/player/idle/left-00.png"/>
+    <texture id="player-idle-left-01" source="assets/player/idle/left-01.png"/>
+    <texture id="player-idle-left-02" source="assets/player/idle/left-02.png"/>
+    <texture id="player-idle-left-03" source="assets/player/idle/left-03.png"/>
+    <texture id="player-idle-right-00" source="assets/player/idle/right-00.png"/>
+    <texture id="player-idle-right-01" source="assets/player/idle/right-01.png"/>
+    <texture id="player-idle-right-02" source="assets/player/idle/right-02.png"/>
+    <texture id="player-idle-right-03" source="assets/player/idle/right-03.png"/>
+    <texture id="player-idle-up-00" source="assets/player/idle/up-00.png"/>
+    <texture id="player-idle-up-01" source="assets/player/idle/up-01.png"/>
+    <texture id="player-idle-up-02" source="assets/player/idle/up-02.png"/>
+    <texture id="player-idle-up-03" source="assets/player/idle/up-03.png"/>
+
+    <!-- Player walk -->
+    <texture id="player-walk-down-00" source="assets/player/walk/down-00.png"/>
+    <texture id="player-walk-down-01" source="assets/player/walk/down-01.png"/>
+    <texture id="player-walk-down-02" source="assets/player/walk/down-02.png"/>
+    <texture id="player-walk-down-03" source="assets/player/walk/down-03.png"/>
+    <texture id="player-walk-left-00" source="assets/player/walk/left-00.png"/>
+    <texture id="player-walk-left-01" source="assets/player/walk/left-01.png"/>
+    <texture id="player-walk-left-02" source="assets/player/walk/left-02.png"/>
+    <texture id="player-walk-left-03" source="assets/player/walk/left-03.png"/>
+    <texture id="player-walk-right-00" source="assets/player/walk/right-00.png"/>
+    <texture id="player-walk-right-01" source="assets/player/walk/right-01.png"/>
+    <texture id="player-walk-right-02" source="assets/player/walk/right-02.png"/>
+    <texture id="player-walk-right-03" source="assets/player/walk/right-03.png"/>
+    <texture id="player-walk-up-00" source="assets/player/walk/up-00.png"/>
+    <texture id="player-walk-up-01" source="assets/player/walk/up-01.png"/>
+    <texture id="player-walk-up-02" source="assets/player/walk/up-02.png"/>
+    <texture id="player-walk-up-03" source="assets/player/walk/up-03.png"/>
+</textures>

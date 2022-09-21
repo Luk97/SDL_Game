@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameobjects>
+    <player xpos="16" ypos="16" xvel="0" yvel="0" speed="5" width="64" height="64" scale="3" xcol="28" ycol="33" wcol="28" hcol="25"/>
+
+
+
+</gameobjects>

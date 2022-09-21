@@ -1,0 +1,4 @@
+Layerclasses:
+    Classattributes must have one of the following names:
+        - tilelayer
+        - collisionlayer
